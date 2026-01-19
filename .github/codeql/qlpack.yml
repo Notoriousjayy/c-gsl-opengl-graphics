@@ -1,0 +1,4 @@
+name: Notoriousjayy/c-gsl-opengl-graphics-codeql-pack
+version: 0.0.1
+library: true
+dependencies: {}
